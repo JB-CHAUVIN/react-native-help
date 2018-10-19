@@ -23,4 +23,4 @@ Pour installer l'app Expo dans le simulateur sans passer par l'App Store.
 - Télécharger le dernier build : http://expo.io/--/api/v2/versions/download-ios-simulator-build[http://expo.io/--/api/v2/versions/download-ios-simulator-build]
 - Extraire le contenu : `mkdir Exponent-X.XX.X.app && tar xvf Exponent-X.XX.X.tar.gz -C Exponent-X.XX.X.app`. 
 - Lancer le simulateur 
-- Utiliser la commande suivante pour installer Expo dans le simulateur : `run xcrun simctl install booted [Exponent-X.XX.X.app]`.
+- Utiliser la commande suivante pour installer Expo dans le simulateur : `xcrun simctl install booted [Exponent-X.XX.X.app]`.
