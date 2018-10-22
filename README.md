@@ -1,4 +1,4 @@
-# React native (RN) : quelques infos utiles 📱
+# React native (RN) et développement mobile : quelques infos utiles 📱
 
 ## A propos de moi
 
@@ -24,3 +24,7 @@ Pour installer l'app Expo dans le simulateur sans passer par l'App Store.
 - Extraire le contenu : `mkdir Exponent-X.XX.X.app && tar xvf Exponent-X.XX.X.tar.gz -C Exponent-X.XX.X.app`. 
 - Lancer le simulateur 
 - Utiliser la commande suivante pour installer Expo dans le simulateur : `xcrun simctl install booted [Exponent-X.XX.X.app]`.
+
+## Simuler un iPhone plein (sans mémoire libre)
+
+- Le projet NoMoreStorage[https://github.com/boehlerlukas/NoMoreStorage] permet de remplir son iPhone et de tester ses apps dans de très mauvaises conditions.
