@@ -1,3 +1,5 @@
+# React Native : make your relative import absolute
+
 Most of the time, we import our files using the following syntax :
 
 ```
